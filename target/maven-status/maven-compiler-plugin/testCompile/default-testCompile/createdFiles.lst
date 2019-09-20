@@ -1,0 +1,5 @@
+crm\qa\pages\test\TasksPageTest.class
+crm\qa\pages\test\HomePageTest.class
+crm\qa\pages\test\LoginPageTest.class
+crm\qa\pages\test\ContactsPageTest.class
+crm\qa\pages\test\DealspageTest.class
